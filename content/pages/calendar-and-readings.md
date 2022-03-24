@@ -321,7 +321,7 @@ _[C’est arrivé près de chez vous](http://www.imdb.com/title/tt0103905/)_. Di
 
 _[Natural Born Killers](http://www.imdb.com/title/tt0110632/)_. Directed by Oliver Stone. Black and White, and Color, 118 min. 1994.
 
-Bazin, André. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Death Every Afternoon." (PDF)](http://resourcelists.st-andrews.ac.uk/items/76AFE50D-4C9B-A2AC-049B-70260AF4D6B6.html) In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with [Google Books](http://books.google.com/books?id=GOGYEfa-16MC&pg=PA27=onepage)\]
+Bazin, André. ["Death Every Afternoon." (PDF)](http://resourcelists.st-andrews.ac.uk/items/76AFE50D-4C9B-A2AC-049B-70260AF4D6B6.html) In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with [Google Books](http://books.google.com/books?id=GOGYEfa-16MC&pg=PA27=onepage)\]
 
 
 {{< tdclose >}}
